@@ -1,5 +1,7 @@
 # DEAFPOOL
 
+(forked from my OTHER other github account)
+
 ## What?
 
 It's a quick and dirty implementation of a "worker pool" pattern:
